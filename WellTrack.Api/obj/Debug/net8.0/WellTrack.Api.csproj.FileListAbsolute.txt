@@ -131,3 +131,4 @@ C:\Users\andte\OneDrive\Área de Trabalho\Workik AI\WellTrack.Api\obj\Debug\net8
 C:\Users\andte\OneDrive\Área de Trabalho\Workik AI\WellTrack.Api\obj\Debug\net8.0\WellTrack.Api.pdb
 C:\Users\andte\OneDrive\Área de Trabalho\Workik AI\WellTrack.Api\obj\Debug\net8.0\WellTrack.Api.genruntimeconfig.cache
 C:\Users\andte\OneDrive\Área de Trabalho\Workik AI\WellTrack.Api\obj\Debug\net8.0\ref\WellTrack.Api.dll
+C:\Users\andte\OneDrive\Área de Trabalho\Workik AI\WellTrack.Api\obj\Debug\net8.0\WellTrack.Api.sourcelink.json
